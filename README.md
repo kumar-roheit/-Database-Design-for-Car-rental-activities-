@@ -20,5 +20,5 @@ Designed a database for car rental system. Identified various functional depende
 11. For the payment, cash, credit cards, or debit cards are accepted. Personal checks or money orders are not allowed.
 12. A late fee may occur and be added to the final cost if the customer returns the car after the due date. 
 13. A customer can choose to return the car before the due date. However, the cost will be still based on the previously agreed length of the car rental transaction.
-14. A default sales tax of 8.25% will be applied to the final billing.
+14. A default sales tax will be applied to the final billing.
 15. Car rental price will be calculated based on the selected make and model.
