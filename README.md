@@ -1,6 +1,6 @@
 # Project-DB
 
-This is done as a part of academic project on database to partially meet credit requirements for cs6360.
+This is an academic project on database done to partially meet credit requirements for cs6360.
 
 ## Database design of a car rental service
 Designed a database for car rental system. Identified various functional dependencies and normalized the ones violating 3NF rules. Created Procedure wherever required to improve performance.
